@@ -28,7 +28,7 @@ body{
     padding: 0 50px 50px 50px;
 }
 
-/* Header Styles */
+/* HEADER STYLES */
 
 .header{
     display: flex;
@@ -60,7 +60,7 @@ body{
     font-family: "Roboto",serif;
 }
 
-/* Hero Styles */
+/* HERO STYLES */
 
 .hero{
     display: flex;
@@ -112,7 +112,7 @@ body{
     font-size: 18px;
 }
 
-/* Info Styles */
+/* INFO STYLES */
 
 .info{
     display: flex;
@@ -147,7 +147,7 @@ body{
     gap: 10px;
 }
 
-/* Card Styles */
+/* CARD STYLES */
 
 .card__img{
     height: 180px;
@@ -164,7 +164,7 @@ body{
     color: #75797e;
 }
 
-/* Quote Styles */
+/* QUOTE STYLES */
 
 .page__sectionThree{
     background-color: #e5e7eb;
@@ -205,6 +205,7 @@ body{
     padding: 70px;
 
 }
+
 .signup{
     display: flex;
     background-color: #3882f6;
@@ -232,7 +233,6 @@ body{
     font-family: "Roboto", serif;
     color: #d5dae0;
 }
-
 
 .signup__cta{
     font-size: 20px;
